@@ -4,9 +4,7 @@ import { Phone, Mail } from "lucide-react";
 const ContactForm = () => {
   return (
     <div className="w-[1187px] mt-10 mx-auto bg-white p-8 shadow-lg rounded-lg flex gap-6">
-      {/* Left Contact Info */}
       <div className="w-1/3 bg-white border-r pr-6">
-        {/* Call Section */}
         <div className="mb-6">
           <div className="flex items-center gap-3">
             <div className="bg-red-500 text-white p-3 rounded-full">
@@ -22,7 +20,6 @@ const ContactForm = () => {
           </p>
         </div>
 
-        {/* Write To Us Section */}
         <div>
           <div className="flex items-center gap-3">
             <div className="bg-red-500 text-white p-3 rounded-full">

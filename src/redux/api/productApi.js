@@ -3,12 +3,12 @@ import baseApi from "../baseApi";
 export const productApi = baseApi.injectEndpoints({
   endpoints: (builder) => ({
     getAllProducts: builder.query({
-      query: () => "/fakeData.json", // Load fake data correctly
+      query: () => "/fakeData.json",
       providesTags: ["Products"],
     }),
 
     getProductById: builder.query({
-      query: (id) => `/fakeData.json`, // Load fake data (filtering happens in frontend)
+      query: (id) => `/fakeData.json`,
     }),
   }),
 });
