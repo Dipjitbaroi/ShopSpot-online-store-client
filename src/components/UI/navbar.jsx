@@ -9,19 +9,15 @@ export default function Navbar() {
 
   return (
     <header className="">
-      {/* Announcement Bar */}
       <div className="bg-black  text-white text-center text-sm py-2">
         Summer Sale For All Swim Suits And Free Express Delivery - OFF 50%!{" "}
         <span className="font-bold cursor-pointer">ShopNow</span>
       </div>
 
-      {/* Main Navbar */}
       <nav className="bg-white shadow-md w-full">
-        <div className="max-w-[1170px] mx-auto flex items-center justify-between p-4">
-          {/* Logo */}
+        <div className="max-w-7xl mx-auto flex items-center justify-between p-4">
           <div className="text-2xl font-bold">Exclusive</div>
 
-          {/* Desktop Menu */}
           <ul className="hidden md:flex space-x-6 text-lg font-medium">
             <li>
               <Link href="/" className="hover:underline">

@@ -2,7 +2,6 @@
 import Image from "next/image";
 import { useMemo } from "react";
 
-// Example inline SVG icon (you could replace these with any icon library)
 function ExampleIcon() {
   return (
     <svg
@@ -50,7 +49,7 @@ export default function OurStory() {
   );
 
   return (
-    <section className="max-w-6xl mx-auto px-4 mt-10 py-10">
+    <section className="max-w-7xl mx-auto px-4 mt-10 py-10">
       <div className="flex flex-col md:flex-row items-center justify-center md:items-start gap-8 mb-10">
         <div className="flex-1">
           <h2 className="text-3xl md:text-4xl font-bold mb-4  justify-center">

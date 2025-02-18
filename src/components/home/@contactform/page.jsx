@@ -3,7 +3,7 @@ import { Phone, Mail } from "lucide-react";
 
 const ContactForm = () => {
   return (
-    <div className="max-w-6xl mt-10 mx-auto bg-white p-8 shadow-lg rounded-lg flex flex-col md:flex-row gap-6">
+    <div className="max-w-7xl mt-10 mx-auto bg-white p-8 shadow-lg rounded-lg flex flex-col md:flex-row gap-6">
       {/* Left Column (Contact Info) */}
       <div className="md:w-1/3 bg-white border-r pr-6">
         <div className="mb-6">

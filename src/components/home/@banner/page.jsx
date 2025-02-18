@@ -34,7 +34,7 @@ export default function Banner() {
     <Swiper
       pagination={true}
       modules={[Pagination]}
-      className="mySwiper max-w-6xl  mx-auto">
+      className="mySwiper max-w-7xl  mx-auto">
       {banners.map((banner) => (
         <SwiperSlide key={banner.id}>
           {/* 

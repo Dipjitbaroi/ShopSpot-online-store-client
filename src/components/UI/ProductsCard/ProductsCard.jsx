@@ -8,7 +8,7 @@ const ProductsCard = ({ product }) => {
   ).toFixed(2);
 
   return (
-    <div className="bg-white shadow-lg rounded-lg p-4 w-[280px] relative">
+    <div className="bg-white shadow-lg rounded-lg p-4 w-80 relative">
       {product.discount > 0 && (
         <div className="absolute top-5 left-4 bg-red-500 text-white text-xs px-2 py-1 rounded">
           -{product.discount}%
