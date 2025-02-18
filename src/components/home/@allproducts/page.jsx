@@ -10,13 +10,13 @@ const AllProducts = () => {
   if (error) return <p>Error loading products</p>;
 
   return (
-    <div className="p-2  mt-16 max-w-[1187px] mx-auto">
+    <div className="p-2  mt-16  max-w-6xl mx-auto">
       <div className="flex items-center gap-2 mb-6">
         <div className="w-2 h-8 bg-red-500"></div>
         <h1 className="text-2xl font-bold text-red-600">Flash Sales</h1>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-4 gap-6">
+      <div className="grid grid-cols-1   sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-4 gap-6">
         {products?.slice(0, 4).map((product, index) => (
           <ProductsCard key={index} product={product} />
         ))}

@@ -50,10 +50,8 @@ export default function OurStory() {
   );
 
   return (
-    <section className="max-w-[1187px] mx-auto px-4 mt-10 py-10">
-      {/* Top Section: Text + Image */}
+    <section className="max-w-6xl mx-auto px-4 mt-10 py-10">
       <div className="flex flex-col md:flex-row items-center justify-center md:items-start gap-8 mb-10">
-        {/* Left Column: Text */}
         <div className="flex-1">
           <h2 className="text-3xl md:text-4xl font-bold mb-4  justify-center">
             Our Story
@@ -91,7 +89,6 @@ export default function OurStory() {
             key={item.id}
             className="p-6 bg-white hover:bg-red-500 rounded-md shadow flex flex-col  items-center
                        text-center group transition-colors ">
-            {/* Icon + Hover Effect */}
             <div className="bg-gray-400 flex items-center  justify-center rounded-full w-14 h-14">
               <div
                 className=" w-12 h-12 rounded-full flex items-center  justify-center 

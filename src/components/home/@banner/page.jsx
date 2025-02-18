@@ -34,7 +34,7 @@ export default function Banner() {
     <Swiper
       pagination={true}
       modules={[Pagination]}
-      className="mySwiper  w-[1187] mx-auto">
+      className="mySwiper max-w-6xl  mx-auto">
       {banners.map((banner) => (
         <SwiperSlide key={banner.id}>
           {/* 
@@ -48,7 +48,6 @@ export default function Banner() {
               fill
               className="object-cover"
             />
-            {/* Overlay to darken the background */}
             <div className="absolute inset-0 bg-black opacity-40" />
 
             {/* Banner Content, aligned to the left */}

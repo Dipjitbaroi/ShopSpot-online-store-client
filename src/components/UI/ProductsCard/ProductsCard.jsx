@@ -9,20 +9,17 @@ const ProductsCard = ({ product }) => {
 
   return (
     <div className="bg-white shadow-lg rounded-lg p-4 w-[280px] relative">
-      {/* Discount Badge */}
       {product.discount > 0 && (
         <div className="absolute top-5 left-4 bg-red-500 text-white text-xs px-2 py-1 rounded">
           -{product.discount}%
         </div>
       )}
 
-      {/* Icons */}
       <div className="absolute top-5 right-3  ">
         <Heart className="w- h-5 p-[1px] bg-white rounded-full text-gray-600 cursor-pointer hover:text-red-500" />
         <Eye className="w-5 h-5 p-[1px] mt-1  bg-white rounded-full  text-gray-600 cursor-pointer hover:text-blue-500" />
       </div>
 
-      {/* Product Image */}
       <img
         src={product.image}
         alt={product.name}
@@ -40,7 +37,6 @@ const ProductsCard = ({ product }) => {
           </span>
         </div>
 
-        {/* Add to Cart Button */}
         <button className="w-full mt-2 bg-black text-white hover:bg-gray-800">
           Add To Cart
         </button>
