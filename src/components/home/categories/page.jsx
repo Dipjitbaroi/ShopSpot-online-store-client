@@ -102,6 +102,13 @@ export default function Categories() {
             </div>
           ))}
         </div>
+
+        {/* Right Arrow */}
+        <button
+          onClick={scrollRight}
+          className="absolute right-0 top-1/2 -translate-y-1/2 bg-white rounded-full p-2 shadow-md z-10">
+          <AiOutlineArrowRight size={20} />
+        </button>
       </div>
     </div>
   );
