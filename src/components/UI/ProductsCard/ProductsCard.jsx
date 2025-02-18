@@ -1,5 +1,6 @@
 import React from "react";
 import { Heart, Eye } from "lucide-react";
+import Link from "next/link";
 
 const ProductsCard = ({ product }) => {
   const discountedPrice = (
@@ -17,7 +18,9 @@ const ProductsCard = ({ product }) => {
 
       <div className="absolute top-5 right-3  ">
         <Heart className="w- h-5 p-[1px] bg-white rounded-full text-gray-600 cursor-pointer hover:text-red-500" />
-        <Eye className="w-5 h-5 p-[1px] mt-1  bg-white rounded-full  text-gray-600 cursor-pointer hover:text-blue-500" />
+        <Link href={`/product/${product.id}`}>
+          <Eye className="w-5 h-5 p-[1px] mt-1  bg-white rounded-full  text-gray-600 cursor-pointer hover:text-blue-500" />
+        </Link>
       </div>
 
       <img

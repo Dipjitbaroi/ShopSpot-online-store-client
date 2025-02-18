@@ -4,6 +4,7 @@ import Banner from "@/components/home/@banner/page";
 import ContactForm from "@/components/home/@contactform/page";
 import OurStory from "@/components/home/@OurStory/page";
 import ServiceFeatures from "@/components/home/@ServiceFeatures/page";
+import Caetegories from "@/components/home/categories/page";
 import { useGetAllProductsQuery } from "@/redux/api/productApi";
 import React from "react";
 
@@ -15,6 +16,8 @@ const Page = () => {
       <div>
         <AllPoducts />
       </div>
+      <Caetegories />
+
       <div>
         <AllPoducts />
       </div>

@@ -1,6 +1,7 @@
 [
   {
     "name": "Leather Handbag",
+    "id": "1",
     "description": "A premium leather handbag with multiple compartments, ideal for everyday use.",
     "price": 79.99,
     "category": "Accessories",
