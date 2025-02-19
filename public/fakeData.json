@@ -1,252 +1,262 @@
 [
   {
+    "id": "1dw342",
     "name": "Leather Handbag",
-    "id": "1",
     "description": "A premium leather handbag with multiple compartments, ideal for everyday use.",
     "price": 79.99,
     "category": "Accessories",
     "inventoryCount": 50,
+    "sizeInStock": "Medium",
+    "productCode": "HB-001",
     "discount": 10,
-    "shopId": "aa91885b-d715-4ecd-a6f3-bf0bce071c41",
-    "image": "https://m.media-amazon.com/images/I/61RSyB+kbzL._AC_SL1200_.jpg"
+    "image": "https://m.media-amazon.com/images/I/61RSyB+kbzL._AC_SL1200_.jpg",
+    "flashSale": true
   },
   {
+    "id": "2re549",
     "name": "Classic Oxford Shoes for Men",
     "description": "Elegant leather Oxford shoes designed for formal and professional settings.",
     "price": 129.99,
     "category": "Shoes",
     "inventoryCount": 30,
+    "sizeInStock": "42, 43, 44",
+    "productCode": "OXF-002",
     "discount": 15,
-    "shopId": "aa91885b-d715-4ecd-a6f3-bf0bce071c41",
-    "image": "https://i5.walmartimages.com/seo/Bruno-Marc-Men-s-Classic-Oxford-Shoes-Casual-Business-Walking-Shoes-For-Men-Modern-Lace-Up-Formal-Dress-Shoes-PRINCE-6-BLACK-Size-12_07fcd824-ca66-4a71-a5cb-03c9159af810.07e2921ee30610a120a105577db0101e.jpeg"
+    "image": "https://i5.walmartimages.com/seo/Bruno-Marc-Men-s-Classic-Oxford-Shoes-Casual-Business-Walking-Shoes-For-Men-Modern-Lace-Up-Formal-Dress-Shoes-PRINCE-6-BLACK-Size-12_07fcd824-ca66-4a71-a5cb-03c9159af810.07e2921ee30610a120a105577db0101e.jpeg",
+    "flashSale": false
   },
   {
+    "id": "3ty982",
     "name": "Stylish Heels for Women",
     "description": "Sophisticated high heels perfect for evening wear or formal occasions.",
     "price": 89.99,
     "category": "Shoes",
     "inventoryCount": 40,
+    "sizeInStock": "36, 37, 38",
+    "productCode": "HEELS-003",
     "discount": 10,
-    "shopId": "aa91885b-d715-4ecd-a6f3-bf0bce071c41",
-    "image": "https://www.merkis.com.bd/wp-content/uploads/2023/04/617-02.jpg"
+    "image": "https://www.merkis.com.bd/wp-content/uploads/2023/04/617-02.jpg",
+    "flashSale": true
   },
   {
+    "id": "4op654",
     "name": "Sporty Sneakers for Men",
     "description": "Comfortable and durable sneakers designed for sports and casual wear.",
     "price": 69.99,
     "category": "Shoes",
     "inventoryCount": 100,
+    "sizeInStock": "40, 41, 42",
+    "productCode": "SNK-004",
     "discount": 5,
-    "shopId": "aa91885b-d715-4ecd-a6f3-bf0bce071c41",
-    "image": "https://www.batabd.com/cdn/shop/products/1_11568c6a-24ea-4185-a117-3a5ab3c8cdba_1024x1024.jpg?v=1735704488"
+    "image": "https://www.batabd.com/cdn/shop/products/1_11568c6a-24ea-4185-a117-3a5ab3c8cdba_1024x1024.jpg?v=1735704488",
+    "flashSale": false
   },
   {
+    "id": "5mn120",
     "name": "Classic Leather Wallet",
     "description": "A sleek leather wallet with multiple compartments for cards, cash, and coins.",
     "price": 49.99,
     "category": "Accessories",
     "inventoryCount": 70,
+    "sizeInStock": "One Size",
+    "productCode": "WL-005",
     "discount": 8,
-    "shopId": "821ec134-9f6b-44d0-96ce-cce04a418370",
-    "image": "https://diamu.com.bd/wp-content/uploads/2023/04/Black-Classic-Leather-Wallet-SB-W166.jpg"
+    "image": "https://diamu.com.bd/wp-content/uploads/2023/04/Black-Classic-Leather-Wallet-SB-W166.jpg",
+    "flashSale": true
   },
-
   {
+    "id": "6fg238",
     "name": "Chic Crossbody Bag",
     "description": "A stylish crossbody bag for women, perfect for casual outings and travel.",
     "price": 79.99,
     "category": "Accessories",
     "inventoryCount": 45,
+    "sizeInStock": "Small",
+    "productCode": "CBG-006",
     "discount": 10,
-    "shopId": "821ec134-9f6b-44d0-96ce-cce04a418370",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65NERQT4wCyL1VVhxPuG_FN8wbTz20pts-IU-lKYrNwAcQnpaYVqGzsxtHOG0Hfx1gcw&usqp=CAU"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR65NERQT4wCyL1VVhxPuG_FN8wbTz20pts-IU-lKYrNwAcQnpaYVqGzsxtHOG0Hfx1gcw&usqp=CAU",
+    "flashSale": false
   },
   {
+    "id": "7zy745",
     "name": "Statement Necklace",
     "description": "A bold statement necklace that pairs well with evening wear and formal outfits.",
     "price": 59.99,
     "category": "Accessories",
     "inventoryCount": 50,
+    "sizeInStock": "One Size",
+    "productCode": "NEC-007",
     "discount": 12,
-    "shopId": "821ec134-9f6b-44d0-96ce-cce04a418370",
-    "image": "https://www.talbots.com/dw/image/v2/BKGN_PRD/on/demandware.static/-/Sites-master-catalog-talbots/default/dw0a5539df/images/244065134/244065134.jpg?sfrm=jpg"
+    "image": "https://www.talbots.com/dw/image/v2/BKGN_PRD/on/demandware.static/-/Sites-master-catalog-talbots/default/dw0a5539df/images/244065134/244065134.jpg?sfrm=jpg",
+    "flashSale": true
   },
   {
+    "id": "8zx890",
     "name": "Comfortable Wedge Sandals",
     "description": "Lightweight wedge sandals perfect for summer and casual outings.",
     "price": 69.99,
     "category": "Shoes",
     "inventoryCount": 75,
+    "sizeInStock": "39, 40, 41",
+    "productCode": "WDG-008",
     "discount": 10,
-    "shopId": "821ec134-9f6b-44d0-96ce-cce04a418370",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxzqhsJAVs61TPmZYxLirIlVXnW51aNcHmpTSEYFglAaxsNvuPdWPfI8IkGz94-_nJEo&usqp=CAU"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxzqhsJAVs61TPmZYxLirIlVXnW51aNcHmpTSEYFglAaxsNvuPdWPfI8IkGz94-_nJEo&usqp=CAU",
+    "flashSale": false
   },
   {
+    "id": "9qv655",
     "name": "Premium Leather Boots",
     "description": "Stylish and durable leather boots, ideal for colder seasons or stylish outings.",
     "price": 139.99,
     "category": "Shoes",
     "inventoryCount": 35,
+    "sizeInStock": "42, 43, 44",
+    "productCode": "BOOT-009",
     "discount": 20,
-    "shopId": "821ec134-9f6b-44d0-96ce-cce04a418370",
-    "image": "https://rang-bd.com/wp-content/uploads/2024/05/QWK-QLBMBC1L-16-1-scaled.webp"
+    "image": "https://rang-bd.com/wp-content/uploads/2024/05/QWK-QLBMBC1L-16-1-scaled.webp",
+    "flashSale": true
   },
   {
+    "id": "10kp330",
     "name": "Metallic Clutch Bag",
     "description": "A shimmering clutch bag that adds glamour to evening and party outfits.",
     "price": 39.99,
     "category": "Accessories",
     "inventoryCount": 65,
+    "sizeInStock": "Small",
+    "productCode": "CLT-010",
     "discount": 10,
-    "shopId": "821ec134-9f6b-44d0-96ce-cce04a418370",
-    "image": "https://media2.newlookassets.com/i/newlook/879542292/womens/accessories/bags/silver-glitter-clutch-bag.jpg"
+    "image": "https://media2.newlookassets.com/i/newlook/879542292/womens/accessories/bags/silver-glitter-clutch-bag.jpg",
+    "flashSale": false
   },
   {
+    "id": "11ls481",
     "name": "Elegant Kitten Heels",
     "description": "Classy and comfortable kitten heels that complement both office wear and casual dresses.",
     "price": 79.99,
     "category": "Shoes",
     "inventoryCount": 40,
+    "sizeInStock": "37, 38, 39",
+    "productCode": "KHL-011",
     "discount": 12,
-    "shopId": "821ec134-9f6b-44d0-96ce-cce04a418370",
-    "image": "https://images.express.com/is/image/expressfashion/0095_00316270_2073_a002?cache=on&wid=480&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon"
+    "image": "https://images.express.com/is/image/expressfashion/0095_00316270_2073_a002?cache=on&wid=480&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon",
+    "flashSale": true
   },
   {
+    "id": "12bn290",
     "name": "Casual Canvas Shoes",
     "description": "Lightweight and breathable canvas shoes for everyday wear.",
     "price": 49.99,
     "category": "Shoes",
     "inventoryCount": 85,
+    "sizeInStock": "40, 41, 42",
+    "productCode": "CNS-012",
     "discount": 8,
-    "shopId": "821ec134-9f6b-44d0-96ce-cce04a418370",
-    "image": "https://www.batabd.com/cdn/shop/products/1_784df9a1-f795-410f-8a2c-ee8eb65d96f8_1024x1024.jpg?v=1736346381"
+    "image": "https://www.batabd.com/cdn/shop/products/1_784df9a1-f795-410f-8a2c-ee8eb65d96f8_1024x1024.jpg?v=1736346381",
+    "flashSale": false
   },
-
   {
-    "name": "Fashionista Haven",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFIh3kMcXYj2EyJg4U_8MkQDWJ60hNeMriKoXmbjbJ-rDmfT3A70lc_ljAJ-Ncn84Wi8&usqp=CAU",
-    "description": "Your go-to shop for trendy fashion and accessories.",
-    "contactNumber": "987654321"
-  },
-
-  {
-    "name": "Men's Formal Leather Belt",
-    "description": "Premium leather belt perfect for office and formal occasions.",
-    "price": 34.99,
+    "id": "13xd101",
+    "name": "Luxury Gold Watch",
+    "description": "A premium gold-plated watch with a classic design for formal occasions.",
+    "price": 249.99,
     "category": "Accessories",
-    "inventoryCount": 60,
-    "discount": 10,
-    "shopId": "9bce3e7b-9000-4e73-ba0a-ccba8ebb370d",
-    "image": "https://img.drz.lazcdn.com/static/bd/p/0e90fa496aa40882b145a9767b7b3d0d.jpg_720x720q80.jpg"
-  },
-  {
-    "name": "Casual Cotton Shirt for Men",
-    "description": "Breathable and lightweight cotton shirt, ideal for casual wear.",
-    "price": 29.99,
-    "category": "Clothing",
-    "inventoryCount": 80,
-    "discount": 5,
-    "shopId": "9bce3e7b-9000-4e73-ba0a-ccba8ebb370d",
-    "image": "https://m.media-amazon.com/images/I/51feQnSC1iL._AC_UY350_.jpg"
-  },
-  {
-    "name": "Classic Chino Pants",
-    "description": "Comfortable and stylish chinos, a perfect blend of style and comfort.",
-    "price": 44.99,
-    "category": "Clothing",
-    "inventoryCount": 40,
-    "discount": 15,
-    "shopId": "9bce3e7b-9000-4e73-ba0a-ccba8ebb370d",
-    "image": "https://image.uniqlo.com/UQ/ST3/WesternCommon/imagesgoods/475561/item/goods_08_475561_3x4.jpg?width=600"
-  },
-  {
-    "name": "Men's Aviator Sunglasses",
-    "description": "Stylish aviator sunglasses with UV protection.",
-    "price": 49.99,
-    "category": "Accessories",
-    "inventoryCount": 70,
-    "discount": 10,
-    "shopId": "9bce3e7b-9000-4e73-ba0a-ccba8ebb370d",
-    "image": "https://assets.ajio.com/medias/sys_master/root/20230523/kGwQ/646cbe05d55b7d0c63d0f199/-473Wx593H-466086514-grey-MODEL.jpg"
-  },
-  {
-    "name": "Men's Hiking Boots",
-    "description": "Durable and comfortable boots designed for rugged terrains.",
-    "price": 89.99,
-    "category": "Shoes",
-    "inventoryCount": 30,
-    "discount": 20,
-    "shopId": "9bce3e7b-9000-4e73-ba0a-ccba8ebb370d",
-    "image": "https://cdn.shopify.com/s/files/1/0659/9639/0655/products/d2623b6685f4aadcdeb778003a59287f38758158.jpg?v=1687268049"
-  },
-  {
-    "name": "Men's Leather Wallet",
-    "description": "Elegant and durable leather wallet with multiple compartments.",
-    "price": 19.99,
-    "category": "Accessories",
-    "inventoryCount": 100,
-    "discount": 5,
-    "shopId": "9bce3e7b-9000-4e73-ba0a-ccba8ebb370d",
-    "image": "https://www.pegai.com/cdn/shop/files/MALOENROMTONAL-TN_4a1f7598-d3ef-47b4-aa93-86139397bd1d.jpg?v=1728550157&width=1080"
-  },
-  {
-    "name": "Men's Running Shoes",
-    "description": "Lightweight running shoes designed for comfort and speed.",
-    "price": 64.99,
-    "category": "Shoes",
-    "inventoryCount": 50,
-    "discount": 10,
-    "shopId": "9bce3e7b-9000-4e73-ba0a-ccba8ebb370d",
-    "image": "https://storage.apex4u.com/ac05fe62-7af5-46d9-a6c6-194291ec4bca.jpg"
-  },
-  {
-    "name": "Men's Slim Fit Blazer",
-    "description": "Tailored slim fit blazer perfect for formal and semi-formal events.",
-    "price": 119.99,
-    "category": "Clothing",
     "inventoryCount": 20,
-    "discount": 15,
-    "shopId": "9bce3e7b-9000-4e73-ba0a-ccba8ebb370d",
-    "image": "https://www.miik.ca/cdn/shop/files/Emily-soft-blazer-navy-for-women-off-figure_1500x.jpg?v=1721242518"
+    "sizeInStock": "One Size",
+    "productCode": "WCH-013",
+    "discount": 18,
+    "image": "https://cdn.shopify.com/s/files/1/0024/9698/8403/products/il_fullxfull.1948964697_qrs2_700x.jpg?v=1578229520",
+    "flashSale": true
   },
   {
-    "name": "Men's Digital Sports Watch",
-    "description": "Waterproof digital sports watch with multiple functionalities.",
-    "price": 29.99,
+    "id": "14yt302",
+    "name": "Designer Sunglasses",
+    "description": "UV-protected, stylish sunglasses perfect for any season.",
+    "price": 89.99,
     "category": "Accessories",
-    "inventoryCount": 90,
-    "discount": 5,
-    "shopId": "9bce3e7b-9000-4e73-ba0a-ccba8ebb370d",
-    "image": "https://v2awatch.com/cdn/shop/products/1_d14e482d-e022-4532-98c6-fb81228658e3.jpg"
-  },
-  {
-    "name": "Men's Hoodie Sweatshirt",
-    "description": "Cozy and warm hoodie, perfect for casual outings or lounging.",
-    "price": 39.99,
-    "category": "Clothing",
     "inventoryCount": 60,
-    "discount": 10,
-    "shopId": "9bce3e7b-9000-4e73-ba0a-ccba8ebb370d",
-    "image": "https://artisanclick.com/wp-content/uploads/2021/12/274-scaled.jpg"
+    "sizeInStock": "One Size",
+    "productCode": "SG-014",
+    "discount": 12,
+    "image": "https://images.unsplash.com/photo-1592270239798-1f6c552c57b5",
+    "flashSale": false
   },
   {
-    "name": "Men's Polo T-Shirt",
-    "description": "Classic polo T-shirt made with premium cotton for comfort.",
+    "id": "15kp403",
+    "name": "Leather Belt for Men",
+    "description": "A high-quality leather belt with a sleek metal buckle, suitable for casual and formal wear.",
+    "price": 39.99,
+    "category": "Accessories",
+    "inventoryCount": 80,
+    "sizeInStock": "Medium, Large",
+    "productCode": "BLT-015",
+    "discount": 10,
+    "image": "https://images.unsplash.com/photo-1521577352947-9bb58764b69a",
+    "flashSale": true
+  },
+  {
+    "id": "16qr504",
+    "name": "Trendy Denim Jacket",
+    "description": "A fashionable denim jacket, ideal for layering over casual outfits.",
+    "price": 109.99,
+    "category": "Clothing",
+    "inventoryCount": 55,
+    "sizeInStock": "S, M, L, XL",
+    "productCode": "DJ-016",
+    "discount": 15,
+    "image": "https://images.unsplash.com/photo-1516368694098-2bf0be616449",
+    "flashSale": false
+  },
+  {
+    "id": "17nm605",
+    "name": "Casual Cotton T-Shirt",
+    "description": "Soft and breathable cotton t-shirt available in multiple colors.",
     "price": 24.99,
     "category": "Clothing",
-    "inventoryCount": 80,
-    "discount": 5,
-    "shopId": "9bce3e7b-9000-4e73-ba0a-ccba8ebb370d",
-    "image": "https://5.imimg.com/data5/SELLER/Default/2022/3/JV/DA/BC/958301/mens-blue-polo-t-shirts.jpg"
+    "inventoryCount": 120,
+    "sizeInStock": "S, M, L, XL",
+    "productCode": "TSH-017",
+    "discount": 8,
+    "image": "https://images.unsplash.com/photo-1503342394128-c104d54dba3f",
+    "flashSale": true
   },
   {
-    "name": "Men's Leather Gloves",
-    "description": "Stylish and warm leather gloves, perfect for cold weather.",
-    "price": 39.99,
+    "id": "18pr706",
+    "name": "Elegant Pearl Earrings",
+    "description": "Timeless pearl earrings that add elegance to any outfit.",
+    "price": 59.99,
     "category": "Accessories",
     "inventoryCount": 40,
+    "sizeInStock": "One Size",
+    "productCode": "EAR-018",
     "discount": 10,
-    "shopId": "9bce3e7b-9000-4e73-ba0a-ccba8ebb370d",
-    "image": "https://static-01.daraz.com.bd/p/92e50044641e44937832665f17ad8c1a.jpg"
+    "image": "https://images.unsplash.com/photo-1572878605541-cc064aa9d019",
+    "flashSale": false
+  },
+  {
+    "id": "19ms807",
+    "name": "Modern Backpack",
+    "description": "A stylish and spacious backpack, perfect for daily use and travel.",
+    "price": 89.99,
+    "category": "Accessories",
+    "inventoryCount": 50,
+    "sizeInStock": "One Size",
+    "productCode": "BAG-019",
+    "discount": 12,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "flashSale": true
+  },
+  {
+    "id": "20kl908",
+    "name": "Classic Leather Jacket",
+    "description": "A timeless leather jacket that adds a touch of sophistication to any outfit.",
+    "price": 199.99,
+    "category": "Clothing",
+    "inventoryCount": 30,
+    "sizeInStock": "S, M, L, XL",
+    "productCode": "LJ-020",
+    "discount": 20,
+    "image": "https://images.unsplash.com/photo-1519677100203-a0e668c924d4",
+    "flashSale": false
   }
 ]

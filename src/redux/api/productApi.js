@@ -8,8 +8,9 @@ export const productApi = baseApi.injectEndpoints({
     }),
 
     getProductById: builder.query({
-      query: (id) => `/fakeData.json`,
+      query: (id) => `/fakeData.json/${id}`,
     }),
+    providesTags: ["Products"],
   }),
 });
 
