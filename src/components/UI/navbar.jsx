@@ -55,7 +55,13 @@ export default function Navbar() {
               />
             </div>
             <Heart className="cursor-pointer" size={24} />
-            <ShoppingCart className="cursor-pointer" size={24} />
+
+            <Link href="/cart" className="relative">
+              <ShoppingCart size={24} />
+              <span className="absolute -top-1 -right-1 bg-red-500 text-white text-xs font-semibold rounded-full px-1">
+                3
+              </span>
+            </Link>
           </div>
 
           {/* Mobile Toggle Button */}
