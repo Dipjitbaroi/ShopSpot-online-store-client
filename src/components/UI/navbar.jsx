@@ -35,6 +35,12 @@ export default function Navbar() {
               </Link>
             </li>
             <li>
+              <Link href="/dashboard" className="hover:underline">
+                Dashboard
+              </Link>
+            </li>
+
+            <li>
               <Link href="/register" className="hover:underline">
                 Sign Up
               </Link>
@@ -96,6 +102,13 @@ export default function Navbar() {
                 onClick={() => setIsOpen(false)}>
                 About
               </Link>
+            </li>
+            <li>
+              <Link
+                href="/dashboard"
+                className="hover:underline"
+                onClick={() => setIsOpen(false)}></Link>{" "}
+              Dashboard
             </li>
             <li>
               <Link

@@ -1,7 +1,7 @@
-export default function RootLayout({ children }) {
+export default function CommonLayout({ children }) {
   return (
-    <html lang="en">
-      <body>{children}</body>
-    </html>
+    <div className="min-h-screen flex flex-col">
+      <main className="flex-1">{children}</main>
+    </div>
   );
 }
